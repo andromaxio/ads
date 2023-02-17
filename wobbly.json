@@ -22,8 +22,11 @@
 			"high_paying_keyword_3": "",
 			"high_paying_keyword_4": "",
 			"high_paying_keyword_5": "",
+			
 			"Cpa":"true",
-             "ImageUrl":"https://i.imgur.com/3awNukl.jpeg",
+                        "ImageUrl":"https://i.imgur.com/3awNukl.jpeg",
+                        "LinkCpa":"https://cpabuild.com",
+			
 			"status_app": "0",
 			"link_moreapps": "https://raw.githubusercontent.com/saidmotya/GFX-AdPromote/master/ScreenShot/MyPromote.json",
 			"link_redirect": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=fr"

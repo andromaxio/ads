@@ -32,6 +32,7 @@
 		"posts": [
 			{
 				"id": 0,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "TIPS abdo",
 				"description": "AAAAAAAAAAAAAAAAAAAAAAA",
@@ -39,6 +40,7 @@
 			},
 			{
 				"id": 1,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "TIPS 2",
 				"description": "AAAAAAAAAAAAAAAAAAAAAAA",
@@ -46,6 +48,7 @@
 			},
 			{
 				"id": 2,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "TIPS 3",
 				"description": "AAAAAAAAAAAAAAAAAAAAAAA",
@@ -53,6 +56,7 @@
 			},
 			{
 				"id": 3,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "TIPS 4",
 				"description": "AAAAAAAAAAAAAAAAAAAAAAA",
@@ -60,6 +64,7 @@
 			},
 			{
 				"id": 4,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "TIPS 5",
 				"description": "AAAAAAAAAAAAAAAAAAAAAAA",
@@ -67,6 +72,7 @@
 			},
 			{
 				"id": 5,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "TIPS 6",
 				"description": "",
@@ -74,6 +80,7 @@
 			},
 			{
 				"id": 6,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "TIPS 7",
 				"description": "AAAAAAAAAAAAAAAAAAAAAAA",
@@ -81,6 +88,7 @@
 			},
 			{
 				"id": 7,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "TIPS 8",
 				"description": "AAAAAAAAAAAAAAAAAAAAAAA",
@@ -88,6 +96,7 @@
 			},
 			{
 				"id": 8,
+				"state" : "free",
 				"imageURL": "https://drive.google.com/uc?export=view&id=1HJZVQkiCpQXFc10LsTYegnEoR2nOXnJd",
 				"title": "Test title 8",
 				"description": "AAAAAAAAAAAAAAAAAAAAAAA",
